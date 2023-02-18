@@ -1,0 +1,23 @@
+.Language-button {
+  height: 35px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 1px #db1c48 solid;
+  font-size: 18px;
+  color: #db1c48;
+  font-family: 'Roboto';
+  margin: 20px;
+}
+
+.Active-button {
+  height: 35px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #db1c48;
+  border: 0px solid;
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 20px;
+}
